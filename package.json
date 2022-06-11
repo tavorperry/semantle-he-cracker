@@ -1,0 +1,9 @@
+{
+    "type": "module",
+    "dependencies": {
+      "axios": "^0.27.2",
+      "batch-request-js": "^2.0.2",
+      "node-os-walk": "^1.0.0",
+      "simple-node-logger": "^21.8.12"
+    }
+  }
