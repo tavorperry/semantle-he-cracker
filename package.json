@@ -4,5 +4,9 @@
   "dependencies": {
     "axios": "^0.27.2",
     "simple-node-logger": "^21.8.12"
+  },
+  "devDependencies": {
+    "eslint": "^8.17.0",
+    "eslint-config-google": "^0.14.0"
   }
 }
