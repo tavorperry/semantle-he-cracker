@@ -1,7 +1,8 @@
 {
-    "type": "module",
-    "dependencies": {
-      "axios": "^0.27.2",
-      "simple-node-logger": "^21.8.12"
-    }
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "simple-node-logger": "^21.8.12"
   }
+}
