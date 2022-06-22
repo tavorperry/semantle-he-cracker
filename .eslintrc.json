@@ -11,6 +11,6 @@
         "sourceType": "module"
     },
     "rules": {
-        "max-len": [2, {"code": 110, "tabWidth": 4, "ignoreUrls": true}]
+        "max-len": [2, {"code": 115, "tabWidth": 4, "ignoreUrls": true}]
     }
 }
